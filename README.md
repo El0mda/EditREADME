@@ -24,7 +24,7 @@ code:
   <title>Udacity</title>
 </head>
 
-<body>
+<body> 
   <h1>I enjoyed html and css learning</h1>
   <p>I enjoyed learning about blockly app the most</p>
   <h1>I want to learn more about front-end development</h1>
