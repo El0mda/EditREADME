@@ -17,6 +17,7 @@ The most difficult part was the binary one
 Binary was a bit difficult and i have to learn more about
 code:
 <!DOCTYPE html>
+<html>
 <head>
 <meta charset="UTF-8">
   <link rel="stylesheet" href="style.css">
@@ -32,6 +33,7 @@ code:
   <p>Binary was a bit difficult and i have to learn more about</p>
   
 </body>
+</html>
 
 
 
