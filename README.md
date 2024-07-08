@@ -5,7 +5,7 @@ https://x.thunkable.com/copy/5ed6b6cde69ac245381cf7e3fb4f143b
 Hexadecimal presentation:
 https://docs.google.com/presentation/d/1o9nnwOA9CXjg6pf2LlQYv1ozzmOkRJxvLczlEysPM2s/edit?usp=sharing
 Computing Friends:
-https://docs.google.com/spreadsheets/d/14cgf4Ph_XFYcPmwIgE-PILOJLUZso7Fck2qNbJrm1Qw/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1TmgJ7-8nDkP_0K6pxqQ7D6FSVwbvuQ-1xoR_84hbFQI/edit?usp=sharing
 Html and css page:
 I enjoyed html and css learning
 I enjoyed learning about blockly app the most
